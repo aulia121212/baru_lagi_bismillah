@@ -81,8 +81,8 @@
     <!-- Disukai Button -->
     <ImageButton
         android:id="@+id/btnLiked"
-        android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
         android:src="@drawable/disukai"
         android:scaleType="fitCenter"
         android:background="?attr/selectableItemBackgroundBorderless"
@@ -96,8 +96,8 @@
     <!-- Daftar UMKM Button -->
     <ImageButton
         android:id="@+id/btnRegisterUMKM"
-        android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
         android:src="@drawable/daftar_umkm"
         android:scaleType="fitCenter"
         android:background="?attr/selectableItemBackgroundBorderless"
@@ -113,8 +113,8 @@
     <!-- Logout Button -->
     <ImageButton
         android:id="@+id/btn_Logout"
-        android:layout_width="300dp"
-        android:layout_height="45dp"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
         android:src="@drawable/logout"
 
         android:scaleType="fitCenter"
